@@ -8,10 +8,10 @@
       "Description": "LAN 카드 상태 점검 및 데이터 송수신 테스트용 프로그램입니다."
     },
     {
-      "Name": "Program A",
+      "Name": "SLC_Controller",
       "Version": "1.1.0",
-      "Executable": "ProgramA.exe",
-      "Description": "3D 비전 위치 보정 알고리즘 테스트용 모듈"
+      "Executable": "App.SLC_LightController.exe",
+      "Description": "SLC_LightController"
     }
   ]
 }
