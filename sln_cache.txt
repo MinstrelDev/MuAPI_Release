@@ -5,12 +5,10 @@ C:\atmcprg\ATMC.App.GlassInstall\ATMC.App.GlassInstall.sln
 C:\atmcprg\ATMC.App.HMCU_GP_GA\ATMC.App.HMCU_GP_GA.sln
 C:\atmcprg\ATMC.App.MultiRobotBolting1_FRT,RR체결\ATMC.App.MultiRobotBolting.sln
 C:\atmcprg\ATMC.App.PosAdj\ATMC.App.PosAdj.sln
-C:\atmcprg\ATMC.App.RobotPositionAdjust (3)\ATMC.App.RobotPositionAdjust (3)\ATMC.App.RobotPositionAdjust.sln
 C:\atmcprg\ATMC.App.Updater\ATMC.App.Updater.slnx
-C:\atmcprg\Dependencies\Dependencies.sln
+C:\atmcprg\ATMC.SLC_LightController\SLC_LightController.slnx
 C:\atmcprg\HMGMA_DOORINSTALL_FLOW\WindowsFormsApp1\WindowsFormsApp1.slnx
 C:\atmcprg\Motras\ATMC.App.CPAD.sln
-C:\atmcprg\SLC_Controller\SLC_Controller.slnx
 C:\atmcprg\test\ATMC.App.PosAdj\ATMC.App.PosAdj.sln
 C:\C#200\001\001.slnx
 C:\C#200\002\002.slnx
@@ -33,16 +31,13 @@ C:\C#200\019break\019break.slnx
 C:\C#200\020continue\020continue.slnx
 C:\C#200\021논리 연산자\021논리 연산자.slnx
 C:\C#200\084\084.slnx
-C:\dev\snowplum\ATMC.App.Builder\ATMC.App.Builder.slnx
-C:\dev\snowplum\AutoUpdater\Updater.sln
-C:\dev\snowplum\Infinichant\Infinichant\Infinichant.slnx
-C:\dev\snowplum\MuDev\MuApi\MuApi.sln
-C:\dev\snowplum\NetTester\NetTester.slnx
+C:\dev\snowplum\AutoUpdater(pre)\Updater.sln
+C:\dev\snowplum\LANCardTester\LANCardTester.slnx
+C:\dev\snowplum\MuAPI\MuAPI.slnx
+C:\dev\snowplum\MuAPI_Installer\MuAPI_Installer.slnx
+C:\dev\snowplum\MuAPI_Updater\MuAPI_Updater.slnx
 C:\dev\snowplum\QueryGenerator\QueryGenerator.sln
-C:\dev\snowplum\SlnFinder\SlnFinder.slnx
-C:\dev\snowplum\TaskKiller\TaskKiller.sln
-C:\dev\snowplum\Test\Test.sln
-C:\dev\snowplum\TEST2026\TEST2026.slnx
+C:\dev\snowplum\SlnLauncher\SlnLauncher.slnx
 C:\dev\snowplum\YapSpace\YapSpace.sln
 C:\LotusAPI\bin\ATMC.App.ICCUInstall_test_KMCH4_HeadLine\ATMC.App.ICCUInstall.sln
 C:\Users\USER\Downloads\ATMC.App.CPAD1 (4)\ATMC.App.CPAD.sln
